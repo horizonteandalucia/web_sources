@@ -10,7 +10,7 @@ title: Horizonte Andalucía
 email: horizonteandalucia@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Somos profesoras y profesores de distintas facultades y escuelas de la Universidad de Sevilla, profesionales, estudiantes y en general personas con experiencia en la participación social preocupados por la prolongada situación de estancamiento que vive Andalucía. Nuestra tierra tiene graves carencias sociales, económicas y políticas que es necesario abordar con rigor y honestidad. Creemos que con un pie en la Universidad tenemos adquirida una responsabilidad con la sociedad, de la que formamos parte, y a la que nos debemos.
-baseurl: "/" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
+baseurl:  # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
 url: "http://horizonteandalucia.org/" # change this to the base hostname & protocol for your site
 
 # Build settings
@@ -37,38 +37,6 @@ show_post_image_posts_list: false
 
 header:
   image: /assets/patterns/symphony.png
-
-# social
-author:
-  name: "Simple Blog Theme"
-  short_bio:
-    es: Jekyll Blog Theme, Responsive, SEO and Facebook enabled
-  picture: assets/img/profile-60.png
-
-image: /assets/img/profile-225.png
-
-#twitter:
-#  username:
-#instagram_username:
-
-#linkedin_username: lorepirri
-
-#  site:
-facebook:
-  publisher_id: 1474191545979552
-  profile_id: 1474191545979552
-  app_id: 126080721296732
-  authors: [1474191545979552]
-  #pixelcode: 1670622619859349
-
-
-# gitlab on site
-gitlab:
-  owner_url: https://gitlab.com/lorepirri
-
-# github on site
-github:
-  owner_url: https://github.com/lorepirri
 
 
 # translation

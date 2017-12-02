@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Horizonte Andalucía</title>
+    <description>Cambio social y ciudadano</description>
+    <link>http://horizonteandalucia.org//index.html</link>
+    <atom:link href="http://horizonteandalucia.org//feed-es.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 02 Dec 2017 20:22:21 +0100</pubDate>
+    <lastBuildDate>Sat, 02 Dec 2017 20:22:21 +0100</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+    
+      <item>
+        <title>Taller sobre financiación autonómica</title>
+        <description>&lt;p&gt;El día 4 de diciembre a las 16:30 en el seminario 2.6 de Ciencias del Trabajo celebramos un debate sobre la encrucija de Andalucía en la actualidad.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posters/financiacion_autonomica.jpg&quot; alt=&quot;Taller sobre financiación autonómica&quot; title=&quot;Taller sobre financiación autonómica&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 02 Dec 2017 00:00:00 +0100</pubDate>
+        <link>http://horizonteandalucia.org//taller-financiacion-autonomica.html</link>
+        <guid isPermaLink="true">http://horizonteandalucia.org//taller-financiacion-autonomica.html</guid>
+        
+        <category>financiación</category>
+        
+        <category>Andalucía</category>
+        
+        <category>taller</category>
+        
+        
+        <category>projects</category>
+        
+      </item>
+    
+      <item>
+        <title>Cambio social y ciudadano</title>
+        <description>&lt;p&gt;Acto de apertura de Horizonte Andalucía. Iniciamos con un debate sobre el estado actual de Andalucía y las políticas a seguir para mejorar el estado de Andalucía.&lt;/p&gt;
+&lt;h2&gt; Programa &lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/old/cambio_ciudadano/index.html&quot;&gt;Enlace a la web del evento&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Cartel&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/posters/cambio_ciudadano.jpg&quot; alt=&quot;Cambio social y ciudadano&quot; title=&quot;Cambio social y ciudadano&quot; /&gt;&lt;/p&gt;
+
+&lt;h2&gt;Video Promocional&lt;/h2&gt;
+&lt;iframe width=&quot;100%&quot; height=&quot;500px&quot; src=&quot;https://www.youtube.com/embed/wumDc9_9_sc?autoplay=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; showcontrols=&quot;true&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Thu, 01 Jun 2017 00:00:00 +0200</pubDate>
+        <link>http://horizonteandalucia.org//cambio-ciudadano.html</link>
+        <guid isPermaLink="true">http://horizonteandalucia.org//cambio-ciudadano.html</guid>
+        
+        <category>financiación</category>
+        
+        <category>Andalucía</category>
+        
+        <category>taller</category>
+        
+        
+        <category>projects</category>
+        
+      </item>
+    
+  </channel>
+</rss>
