@@ -16,7 +16,7 @@ ref: home
 lang: es
 ---
 {% for post in site.posts limit:1%}
-<h2><a href="{{ post.url | prepend: site.baseurl }}"> Siguiente evento</a></h2>
+<h2><a href="{{ post.url | prepend: site.baseurl }}"> Próximo evento</a></h2>
 <img src="{{ post.poster | prepend: site.baseurl }}" alt="{{ post.title }}" title="{{ post.title }}">
 {% endfor %}
 
