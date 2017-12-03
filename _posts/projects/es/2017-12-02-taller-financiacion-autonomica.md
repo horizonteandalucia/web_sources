@@ -12,7 +12,7 @@ lang: es
 category: projects
 ---
 
-El día 4 de diciembre a las 16:30 en el seminario 2.6 de Ciencias del Trabajo celebramos un debate sobre la encrucija de Andalucía en la actualidad.
+El día Martes 12 de diciembre a las 18:00 en el seminario 2.5 de la facultad de Ciencias del Trabajo celebramos un taller sobre la como nos financiamos las comunidades autonomas.
 
 <img src="{{ page.poster | prepend: site.baseurl }}" alt="{{ page.title }}" title="{{ page.title }}">
 
