@@ -12,7 +12,10 @@ lang: es
 category: projects
 ---
 
-El día Martes 12 de diciembre a las 18:00 en el seminario 2.5 de la facultad de Ciencias del Trabajo celebramos un taller sobre la como nos financiamos las comunidades autonomas.
+El día Martes 12 de diciembre a las 18:00 en el seminario 2.5 de la facultad de Ciencias del Trabajo celebramos un taller sobre financiación autonómica.
+
+El consenso constitucional de 1978 se forjó sobre la lógica de un Estado social fuertemente descentralizado, donde las Comunidades Autónomas asumieron en poco tiempo la provisión de los servicios caracterizadores del Estado de Bienestar: Salud, Educación y Servicios Sociales. Hablar de financiación de las Comunidades Autónomas es, por tanto, hablar de cómo financiamos el Estado de Bienestar, y de cuánto Estado de Bienestar queremos.
+El taller propone un acercamiento a los aspectos técnicos que considera el modelo de financiación y  a los aspectos políticos que lo condicionan. Se propone, sobre todo, compartir reflexiones, alternativas, críticas y autocríticas desde el Sur.
 
 <img src="{{ page.poster | prepend: site.baseurl }}" alt="{{ page.title }}" title="{{ page.title }}">
 
