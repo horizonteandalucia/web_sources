@@ -5,8 +5,8 @@ tagline: "Facultad de ciencias del trabajo"
 poster: /assets/posters/cambio_ciudadano.jpg
 header:
   image: /assets/img/home-header.jpg
-tags: ["financiación", "Andalucía", "taller"]
-keywords: financiación, evento, Andalucía, taller 
+tags: ["apertura", "Andalucía", "evento"]
+keywords: apertura, evento, Andalucía 
 ref: taller-financiacion-autonomica
 lang: es
 category: projects

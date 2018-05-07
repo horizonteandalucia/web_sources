@@ -5,9 +5,9 @@ tagline: "Hogar Virgen de los reyes"
 poster: /assets/posters/mujeres_pensionistas.jpg
 header:
   image: /assets/img/home-header.jpg
-tags: ["financiación", "Andalucía", "taller"]
-keywords: financiación, evento, Andalucía, taller 
-ref: mujer, pensionista.jpg
+tags: ["Mujeres", "Pensiones", "mesa redonda"]
+keywords: financiación, evento, Andalucía, mesa redonda 
+ref: mujer, pensionista
 lang: es
 category: projects
 ---
