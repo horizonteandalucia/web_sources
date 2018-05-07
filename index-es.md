@@ -29,4 +29,4 @@ Pensamos que en la situación política actual, auténticas soluciones solo pued
 
 <h2>Últimos eventos</h2>
 <div>&nbsp;</div>
-{% include list-category-posts.html lang=page.lang category="projects" max=3 %}
+{% include list-category-posts.html lang=page.lang category="projects" max=5 %}

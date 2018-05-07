@@ -17,7 +17,7 @@
           {% include post-meta-info.html post_date=post.date post_url=post.url post_lang=post.lang %}
         </div>
 
-        <span>{{ post.excerpt | default: post.tagline | markdownify | truncatewords: 20 }}</span>
+        <span> {{ post.excerpt | strip_html | truncate: 100 }} </span>
 
         {%if post.tags.size > 0 %}
         <div class="post-meta-list post-tag-list">
@@ -27,8 +27,11 @@
         </div>
         {%endif %}
 
-        <div class="post-meta-list"><a href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}">{{ site.t[lang].read-more }}...</a></div>
-      </li>
+        <div class="post-meta-list"><a href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}">
+          {{ site.t[lang].read-more }}
+        </a></div>
+      </li> 
+	  
     {% endfor %}
   </ul>
 {% if max_posts < posts_lang.size %}
