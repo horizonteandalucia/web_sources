@@ -5,8 +5,8 @@ tagline: "Facultad de ciencias económicas"
 poster: /assets/posters/claves_institucionales.jpg
 header:
   image: /assets/img/home-header.jpg
-tags: ["financiación", "Andalucía", "taller"]
-keywords: financiación, evento, Andalucía, taller 
+tags: ["leccion abierta", "Andalucía", "taller"]
+keywords: leccion abierta, sur, Andalucía 
 ref: claves_institucionales.jpg
 lang: es
 category: projects
